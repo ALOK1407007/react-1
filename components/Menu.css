@@ -1,0 +1,11 @@
+.menu-bar ul{
+     display:flex;
+     list-style: none;
+     align-items: center;
+     justify-content: right;
+     margin-top: 15px;
+     justify-content: space-evenly;
+}
+.menu-bar ul li a{
+     text-decoration: none;
+}
